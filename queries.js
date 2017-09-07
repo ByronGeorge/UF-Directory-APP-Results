@@ -1,13 +1,13 @@
 /* Fill out these functions using Mongoose queries*/
 
-/*var fs = require('fs'),
+var fs = require('fs'),
     mongoose = require('mongoose'),
     Schema = mongoose.Schema,
     listingsBoi = require('./listings.json'),
     Listing = require('./ListingSchema.js'),
     config = require('./config.js');
 
-mongoose.connect('mongodb://bgeorgee:database1@ds121674.mlab.com:21674/assignment3');*/
+//mongoose.connect('mongodb://bgeorgee:database1@ds121674.mlab.com:21674/assignment3');
 
 
 var findLibraryWest = function() {
